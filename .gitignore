@@ -1,0 +1,15 @@
+
+.env
+.env.*
+!.env.example
+
+server/.env
+server/.env.*
+!server/.env.example
+
+__pycache__/
+*.py[cod]
+*.db
+
+node_modules/
+dist/
